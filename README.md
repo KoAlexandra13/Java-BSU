@@ -1,13 +1,10 @@
-# Java-BSU
-## Every lab is located on its own branch.
+# Lab_1.TaylorSeries
+This is a branch of the [Java-BSU](https://github.com/asenyarb/Java-BSU/) repository.
 
-
-A repository with the JAVA labs (BSU/FAMCS).
-
-## Structure
-- Master branch only includes `README.md` and default `.gitignore` for **IntelliJ IDEA**.
-### Every lab branch includes:
-- `.idea/` - **IntelliJ IDEA** project settings
-- `src/` - Project *source code*
-- `README.md` - Lab description with the *main task* and, optionally, comments on the solution.
-- `.gitignore`
+## Lab 1 - **BigDecimal, BigInteger**.
+Variant 2.
+# Problem
+Approximate *given function* using Taylor Series with certain accuracy.
+Stop approximation when the general term becomes less than **1.0E-K**.
+Function argument **X** and accuracy value **K** are entered by user.
+## Function: `(1+x)^-3`, x belongs to ]-1,1[
