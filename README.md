@@ -12,8 +12,7 @@ Read data from the file ( > =6 test lines).
 Write the results to the file. Use the following classes: FileReader, FileWriter, BufferedReader, BufferedWriter.
 
 
-Check whether the given string is a number, not necessarily an integer, or can be written in an equipotential form in the decimal place (maybe with zeros in the senior digits). 
-
+Write a regular expression to determine if the string is GUID with or without parentheses. Where a GUID is a line of 8, 4, 4, 4, 4, 12 hexadecimal digits separated by a dash.
 #### Correct expressions: 
 {e02fa0e4-01ad-090A-c130-0d05a0008ba0}
 e02fd0e4-00fd-090A-ca30-0d00a0038ba0
